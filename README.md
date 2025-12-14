@@ -19,33 +19,33 @@ Contains brief presentation summarizing the workflow
 ### Challenge 1 Files 
 - **challenge_1_design_x.fasta**
   
-Contains the designed antibody sequence in FASTA format.
+    Contains the designed antibody sequence in FASTA format.
 
 - **challenge_1_design_x_complex.pdb**
   
-Contains the predicted 3D structure of the designed antibody
+    Contains the predicted 3D structure of the designed antibody
 
 - **challenge_1_design_x_pae.json**
   
-Contains predicted aligned error (PAE) file indicating model confidence
+    Contains predicted aligned error (PAE) file indicating model confidence
 
 - **challenge_1_hackathon_score.csv**
   
-Contains scoring metrices used to evaluate the design
+    Contains scoring metrices used to evaluate the design
 
 ### Challenge 2 Files
 -  **challenge_2_design_x.fasta**
   
-Contains the designed antiobodies of heavy and light-chains and antigen sequences in FASTA format
+    Contains the designed antiobodies of heavy and light-chains and antigen sequences in FASTA format
 
 - **challenge_2_design_x_complex.pdb**
   
-Contains predicted 3D structure of the designed antiobody
+    Contains predicted 3D structure of the designed antiobody
 
 - **challenge_2_design_x_pae.json**
 
-Contains predicted aligned error (PAE) file indicating model confidence
+    Contains predicted aligned error (PAE) file indicating model confidence
 
 - **challenge_2_hackathon_score.csv**
   
-Contains scoring metrices used to evaluatethe design
+    Contains scoring metrices used to evaluatethe design
