@@ -17,11 +17,11 @@ Contains brief presentation summarizing the workflow
 
 ### Challenge 1 Files 
 - **challenge_1_design_x.fasta**
-- 
+  
 Contains the designed antibody sequence in FASTA format.
 
 - **challenge_1_design_x_complex.pdb**
-- 
+  
 Contains the predicted 3D structure of the designed antibody
 
 - **challenge_1_design_x_pae.json**
@@ -41,7 +41,7 @@ Contains the designed antiobodies of heavy and light-chains and antigen sequence
   
 Contains predicted 3D structure of the designed antiobody
 
-_  **challenge_2_design_x_pae.json**
+- **challenge_2_design_x_pae.json**
 
 Contains predicted aligned error (PAE) file indicating model confidence
 
