@@ -34,7 +34,7 @@ Contains the designed antiobodies of heavy and light-chains and antigen sequence
 - **challenge_2_design_x_complex.pdb**
 Contains predicted 3D structure of the designed antiobody
 
-_ **challenge_2_design_x_pae.json**
+_  **challenge_2_design_x_pae.json**
 Contains predicted aligned error (PAE) file indicating model confidence
 
 - **challenge_2_hackathon_score.csv**
